@@ -26,9 +26,9 @@
 
 <h3 align="left">Familiar Tech Stack:</h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.png" alt="MVVM architecture" width="80" height="40"/>
+  <img src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.png" alt="MVVM architecture" width="40" height="40"/>
   <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" width="80" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/858/474/png-transparent-database-sqlite-manager-database-symbol-angle-data-view.png" alt="Room" width="80" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/858/474/png-transparent-database-sqlite-manager-database-symbol-angle-data-view.png" alt="Room" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="XML" width="40" height="40"/>
 </p>
