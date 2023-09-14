@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Bibek</h1>
-<h3 align="center">I'm a passionate Android developer hailing from the beautiful landscapes of Nepal.</h3>
+<h3 align="center">I'm a passionate Android developer from Nepal.</h3>
 
 - 📫 How to reach me **bibekbhujel077@gmail.com**
 
