@@ -61,4 +61,50 @@ I am a passionate **Mobile Application Developer** dedicated to building seamles
 <a href="https://developers.google.com/profile/u/105344323051510604742" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Developer Profile" height="30" width="40" /></a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=bibekbhujel&show_icons=true&theme=radical" alt="Bibek's GitHub Stats" />- 🎤 Fun fact: **When I'm not debugging, I'm likely singing or lost in music.**
+- 🧠 Currently learning: **Advanced UI/UX patterns and KMP (Kotlin Multiplatform).**
+
+---
+
+### 🛠 Languages & Tools
+
+**Native & Cross-Platform**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+</p>
+
+**Frameworks & Architecture**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Jetpack Compose" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite/Room" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST APIs" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 Tech Stack & Expertise
+
+| Category | Skills |
+| :--- | :--- |
+| **Architecture** | MVVM, Clean Architecture, Provider/Riverpod (Flutter) |
+| **UI/UX** | Jetpack Compose, XML, Flutter Widgets, Material Design |
+| **Database** | Room, SQLite, Firestore |
+| **CS Fundamentals** | Data Structures & Algorithms, Problem Solving (LeetCode) |
+| **Version Control** | Git, GitHub, GitLab |
+
+---
+
+### 🤝 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/bibek-bhujel-785b78244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/bibekbhujel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://developers.google.com/profile/u/105344323051510604742" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Developer Profile" height="30" width="40" /></a>
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=bibekbhujel&show_icons=true&theme=radical" alt="Bibek's GitHub Stats" />
