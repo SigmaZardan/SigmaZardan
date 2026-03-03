@@ -1,110 +1,58 @@
-<h1 align="center">Hey 👋, I'm Bibek</h1>
+<h1 align="center">Bibek | Mobile Application Developer</h1>
 <p align="center">
-  <strong>Mobile Application Developer | Native & Cross-Platform Enthusiast</strong>
+  <strong>Native Android & iOS Specialist • Cross-Platform Engineer</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-Native-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-Cross--Platform-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Android-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-Android_|_iOS-34A853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cross_Platform-Flutter-02569B?style=flat-square&logo=flutter" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM_|_Clean-FFCA28?style=flat-square" />
 </p>
 
 ---
 
-### 🚀 About Me
-I am a passionate **Mobile Application Developer** dedicated to building seamless, high-performance user experiences. While my roots are in **Native Android development**, I thrive in the **Cross-Platform** ecosystem, leveraging modern frameworks to write clean, maintainable code for both iOS and Android.
+### 🚀 Professional Summary
+A result-driven developer focused on building high-performance mobile ecosystems. I bridge the gap between **Native performance** and **Cross-platform flexibility**, ensuring fluid user experiences across all devices.
 
-- 📫 Reach me at: **bibekbhujel077@gmail.com**
-- 🎤 Fun fact: **When I'm not debugging, I'm likely singing or lost in music.**
-- 🧠 Currently learning: **Advanced UI/UX patterns and KMP (Kotlin Multiplatform).**
-
----
-
-### 🛠 Languages & Tools
-
-**Native & Cross-Platform**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-</p>
-
-**Frameworks & Architecture**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Jetpack Compose" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite/Room" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST APIs" width="40" height="40"/>
-</p>
+- 📫 **bibekbhujel077@gmail.com**
+- ⚡ **Fun fact:** Music lover and Singer.
 
 ---
 
-### 📊 Tech Stack & Expertise
+### 🏗️ Technical Architecture & Ecosystem
 
-| Category | Skills |
+| **Category** | **Technologies & Tools** |
 | :--- | :--- |
-| **Architecture** | MVVM, Clean Architecture, Provider/Riverpod (Flutter) |
-| **UI/UX** | Jetpack Compose, XML, Flutter Widgets, Material Design |
-| **Database** | Room, SQLite, Firestore |
-| **CS Fundamentals** | Data Structures & Algorithms, Problem Solving (LeetCode) |
-| **Version Control** | Git, GitHub, GitLab |
+| **Languages** | Kotlin, Swift, Java, Dart, XML |
+| **Frameworks** | Jetpack Compose, SwiftUI, Flutter, UIKit |
+| **Database** | Room, Core Data, SQLite, Firebase, Hive |
+| **Networking** | Retrofit, Alamofire, Ktor, Dio, REST APIs |
+| **Cloud/DevOps** | AWS, Firebase, Git, CocoaPods, SPM |
 
 ---
 
-### 🤝 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/bibek-bhujel-785b78244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/bibekbhujel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://developers.google.com/profile/u/105344323051510604742" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Developer Profile" height="30" width="40" /></a>
-</p>
+### 📱 OS-Specific Proficiency
 
-<img src="https://github-readme-stats.vercel.app/api?username=bibekbhujel&show_icons=true&theme=radical" alt="Bibek's GitHub Stats" />- 🎤 Fun fact: **When I'm not debugging, I'm likely singing or lost in music.**
-- 🧠 Currently learning: **Advanced UI/UX patterns and KMP (Kotlin Multiplatform).**
+#### **🍏 iOS Development**
+* **UI/UX:** SwiftUI, Auto Layout, Combine Framework.
+* **Concurrency:** Grand Central Dispatch (GCD), Async/Await.
+* **Tools:** Xcode, TestFlight, Swift Package Manager.
 
----
-
-### 🛠 Languages & Tools
-
-**Native & Cross-Platform**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-</p>
-
-**Frameworks & Architecture**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Jetpack Compose" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite/Room" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST APIs" width="40" height="40"/>
-</p>
+#### **🤖 Android Development**
+* **UI/UX:** Jetpack Compose, Material Design, View Binding.
+* **Core:** Coroutines, Flow, Dagger Hilt/Koin (DI), WorkManager.
+* **Tools:** Android Studio, Play Console, Gradle.
 
 ---
 
-### 📊 Tech Stack & Expertise
-
-| Category | Skills |
-| :--- | :--- |
-| **Architecture** | MVVM, Clean Architecture, Provider/Riverpod (Flutter) |
-| **UI/UX** | Jetpack Compose, XML, Flutter Widgets, Material Design |
-| **Database** | Room, SQLite, Firestore |
-| **CS Fundamentals** | Data Structures & Algorithms, Problem Solving (LeetCode) |
-| **Version Control** | Git, GitHub, GitLab |
+### 🧩 CS Fundamentals & Problem Solving
+* **Data Structures & Algorithms:** Proficient in solving complex logic (Java/Kotlin).
+* **Principles:** SOLID, DRY, Design Patterns (Singleton, Factory, Observer).
+* **Testing:** Unit Testing (JUnit, XCTest), Mockito.
 
 ---
 
-### 🤝 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/bibek-bhujel-785b78244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/bibekbhujel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://developers.google.com/profile/u/105344323051510604742" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Developer Profile" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bibekbhujel&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekbhujel&layout=compact&theme=radical&hide_border=true" width="41%" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=bibekbhujel&show_icons=true&theme=radical" alt="Bibek's GitHub Stats" />
