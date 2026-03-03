@@ -49,10 +49,3 @@ A result-driven developer focused on building high-performance mobile ecosystems
 * **Data Structures & Algorithms:** Proficient in solving complex logic (Java/Kotlin).
 * **Principles:** SOLID, DRY, Design Patterns (Singleton, Factory, Observer).
 * **Testing:** Unit Testing (JUnit, XCTest), Mockito.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibekbhujel&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekbhujel&layout=compact&theme=radical&hide_border=true" width="41%" />
-</p>
